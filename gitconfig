@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = manon.laffly@gmail.com
+	name = manon laffly
